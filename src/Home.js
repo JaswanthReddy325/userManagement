@@ -8,21 +8,66 @@ const initialData = [
     "fname": "Leanne",
     "lname": "Graham",
     "email": "Sincere@april.biz",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    },
-    "phone": "1-770-736-8031 x56442",
-    "website": "hildegard.org",
     "department": "CSE"
+  },
+  {
+    "id": 2,
+    "fname": "Nagendra",
+    "lname": "Gattam",
+    "email": "nagendra@gmail.com",
+    "department": "CIVIL"
+  },
+  {
+    "id": 3,
+    "fname": "Jaswanth",
+    "lname": "Racha",
+    "email": "jaswanth@gmail.com",
+    "department": "CSE"
+  },{
+    "id": 4,
+    "fname": "Eshwar",
+    "lname": "Nelu",
+    "email": "sai@gmail.com",
+    "department": "CSE"
+  },{
+    "id": 5,
+    "fname": "Shiva Raj",
+    "lname": "Ullari",
+    "email": "ullarishiva@gmail.com",
+    "department": "ECE"
+  },{
+    "id": 6,
+    "fname": "Bhavana",
+    "lname": "Golusula",
+    "email": "gbhavana@gmail.com",
+    "department": "CSE"
+  },{
+    "id": 7,
+    "fname": "Naresh",
+    "lname": "Doddi",
+    "email": "naresh@gmail.com",
+    "department": "CSE"
+  },{
+    "id": 8,
+    "fname": "Charan",
+    "lname": "Ramaya",
+    "email": "Ramaya@april.biz",
+    "department": "ECE"
+  },{
+    "id": 9,
+    "fname": "Madhan",
+    "lname": "Grahamb",
+    "email": "Grahamb@april.biz",
+    "department": "CSE"
+  },{
+    "id": 10,
+    "fname": "Ramya",
+    "lname": "jog",
+    "email": "Ramyajog@gmail.com",
+    "department": "EEE"
   }
-  // Add more predefined data entries here
+
+  
 ];
 
 function Home() {
